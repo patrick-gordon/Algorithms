@@ -3,8 +3,8 @@
 import argparse
 
 def find_max_profit(prices):
-  pass
-
+  for i in range(0, len(prices))
+    
 
 if __name__ == '__main__':
   # This is just some code to accept inputs from the command line
